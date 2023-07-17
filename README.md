@@ -2,9 +2,12 @@
       <img src="https://user-images.githubusercontent.com/8843846/156763978-33751ce1-c010-4787-8964-97da9fdb849f.jpg">
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=benkhalifaghada&label=Profile%20views&color=0e75b6&style=flat" alt="benkhalifaghada" /> </p>
+    
+   
 </div>
 
-[![Github](https://img.shields.io/github/followers/Naderab?label=Follow&style=social)](https://github.com/BenKhalifaGHADA)
+[![Github](https://img.shields.io/github/followers/BenKhalifaGHADA?label=Follow&style=social)](https://github.com/BenKhalifaGHADA)
 
 <div size='30px'> Hi! My name is Ghada Ben Khalifa and I'm a software engineer from Tunisia. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
@@ -37,7 +40,7 @@
 
 | ![Ghada's github stats](https://github-readme-stats.vercel.app/api?username=BenKhalifaGHADA&show_icons=true&theme=tokyonight) | ![Ghada GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenKhalifaGHADA&theme=tokyonight) |
 | --- | --- |
-
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benkhalifaghada" alt="benkhalifaghada" /></a> </p>
 
 
 
