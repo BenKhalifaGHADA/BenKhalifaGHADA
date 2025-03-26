@@ -48,8 +48,6 @@
 
 <br>
 
-<h2> Support ⚡</h3h2>
-<p><a href="https://www.buymeacoffee.com/Ghada Ben Khalifa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ghada Ben Khalifa" /></a><a href="https://ko-fi.com/Diva"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Diva" /></a></p><br><br>
-<br>
+
 
         
