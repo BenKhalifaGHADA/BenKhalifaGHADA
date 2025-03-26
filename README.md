@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on ESPRIT
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning NestJS
 
 - 👯 I’m looking to collaborate on open Source Project and to work as freelancer
 
@@ -34,7 +34,7 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/symfony.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'></a>
-<a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"'></a>
+<a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg'></a>
 
 <h2>⚡ GitHub Stats</h2>
