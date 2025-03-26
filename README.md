@@ -37,6 +37,15 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg'></a>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Ghada Ben Khalifa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ghada Ben Khalifa" /></a><a href="https://ko-fi.com/Diva"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Diva" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benkhalifaghada&show_icons=true&locale=en&layout=compact" alt="benkhalifaghada" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benkhalifaghada&show_icons=true&locale=en" alt="benkhalifaghada" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benkhalifaghada&" alt="benkhalifaghada" /></p>
+
 <h2>⚡ GitHub Stats</h2>
   
 [![Ghada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BenKhalifaGHADA&theme=tokyonight)](https://git.io/praveenscience)
