@@ -37,14 +37,6 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg'></a>
 
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benkhalifaghada&show_icons=true&locale=en" alt="benkhalifaghada" /></p>
-
-
-
 <h2>⚡ GitHub Stats</h2>
   
 [![Ghada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BenKhalifaGHADA&theme=tokyonight)](https://git.io/praveenscience)
