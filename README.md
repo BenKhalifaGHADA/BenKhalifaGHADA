@@ -34,6 +34,7 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/symfony.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'></a>
+<a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nestjs.svg'></a>
 <h2>⚡ GitHub Stats</h2>
   
 [![Ghada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BenKhalifaGHADA&theme=tokyonight)](https://git.io/praveenscience)
