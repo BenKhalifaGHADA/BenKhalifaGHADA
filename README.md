@@ -1,6 +1,6 @@
 <div align='center'>
       <img src="https://user-images.githubusercontent.com/8843846/156763978-33751ce1-c010-4787-8964-97da9fdb849f.jpg">
-      Medium: < a href="https://medium.com/@ghadabenkhalifa1991">Link</a>
+     
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=benkhalifaghada&label=Profile%20views&color=0e75b6&style=flat" alt="benkhalifaghada" /> </p>
     
