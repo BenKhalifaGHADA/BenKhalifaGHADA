@@ -37,6 +37,16 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg'></a>
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/ghada-ben-khalifa-8925b472/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
+<a href = 'https://medium.com/@ghadabenkhalifa1991'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+
+<a href = 'https://github.com/BenKhalifaGHADA'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  
+<br>
+<br>
+  <br>
 <h2>⚡ GitHub Stats</h2>
   
 [![Ghada's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BenKhalifaGHADA&theme=tokyonight)](https://git.io/praveenscience)
