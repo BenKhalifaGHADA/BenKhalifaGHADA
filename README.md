@@ -34,7 +34,7 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/symfony.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'></a>
-<a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg'></a>
+<a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg'></a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'></a>
 
