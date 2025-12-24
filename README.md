@@ -53,9 +53,7 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benkhalifaghada" alt="benkhalifaghada" /></a> </p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benkhalifaghada&show_icons=true&locale=en&layout=compact" alt="benkhalifaghada" /></p>
 
-<br>
-
-## 💡 Random Dev Quote
+<h2> 💡 Random Dev Quote </h2>
 
 ![Quote](https://readme-jokes.vercel.app/api?theme=default)
 
