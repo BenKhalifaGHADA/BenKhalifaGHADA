@@ -55,30 +55,10 @@
 
 <br>
 
-name: Update README with Random Quote
-on:
-  schedule:
-    - cron: '0 0 * * *' # every day at midnight
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Get Random Quote
-        run: |
-          QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content + " — " + .author')
-          echo "## 💡 Random Dev Quote" > quote.md
-          echo "> $QUOTE" >> quote.md
-      - name: Update README
-        run: |
-          sed -i '/## 💡 Random Dev Quote/,$d' README.md
-          cat quote.md >> README.md
-      - name: Commit changes
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git commit -am "Update random quote"
-          git push
+## 💡 Random Dev Quote
+
+![Quote](https://readme-jokes.vercel.app/api?theme=default)
+
 
 
 
