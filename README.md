@@ -11,7 +11,9 @@
 
 <div size='30px'> Hi! My name is Ghada Ben Khalifa and I'm a software engineer from Tunisia. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
+<h2> 💡 Random Dev Quote </h2>
 
+![Quote](https://readme-jokes.vercel.app/api?theme=default)
 <h2> About Me ⚡ </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -53,9 +55,7 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benkhalifaghada" alt="benkhalifaghada" /></a> </p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benkhalifaghada&show_icons=true&locale=en&layout=compact" alt="benkhalifaghada" /></p>
 
-<h2> 💡 Random Dev Quote </h2>
 
-![Quote](https://readme-jokes.vercel.app/api?theme=default)
 
 
 
